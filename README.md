@@ -1,12 +1,17 @@
-# Independent Project
+## Synopsis
+This project is an Independent project which entails about anita's kitchen;"creating a website similar to the idea given by anita and modify it to be better".
 
-## Instructions
-  1) Please fork the Moringa School **mpft1-ip** repo to your own account.
+## Code Example
+Kindly to access my codes clone the repository.
 
-  2) Clone **your forked repo** to your own machine.`
+## Motivation
+My motivation to build this project was to improve myself and become better each and everyday.
 
-  3) Complete the independent project.
+## Tests
+Kindly access my gists I have a sample code for one of my projects, you can run it through console.log() to test.
 
-  4) Push your commits up to your forked repo.
-  
-  5) Send the link pointing to your repo to your Technical mentor via *slack*
+## Contributors
+Majority of the work I have done solo, kindly for any correction or improvement, contact me at collotush@gmail.com
+
+## License
+The project is under license by EuroAfric
